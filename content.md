@@ -241,6 +241,12 @@ The body is a list of key-value pairs that Twilio is expecting in order to send 
 
 I already went to the Twilio developer website, signed up for an account, added my credit card to it so they can bill me, and copy-pasted my credentials. So we are now ready to make the above request in Ruby like this:
 
+
+<div class="bg-red-100 py-1 px-5" markdown="1">
+
+The below code block does not currently work due to a recent anti-spam measure by Twilio. We are working to get the service back up in this lesson.
+</div>
+
 ```ruby
 require "http"
 
